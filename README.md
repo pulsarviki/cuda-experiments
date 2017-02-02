@@ -1,2 +1,3 @@
 # cuda-experiments
-A repository to maintain all experimented cuda programs 
+A repository to maintain all my experimented cuda programs.
+# coming soon #
